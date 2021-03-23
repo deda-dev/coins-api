@@ -1,0 +1,7 @@
+name: CoinsAPI
+version: 1.0
+main: de.deda.coinsapi.CoinsAPI
+author: deda
+
+commands:
+  coins:
